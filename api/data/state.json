@@ -1,0 +1,45 @@
+{
+    "+57":[
+        {
+            "name": "Risaralda",
+            "code": "66"
+        },
+        {
+            "name": "Nariño",
+            "code": "52"
+        },
+        {
+            "name": "Cundinamarca",
+            "code": "25"
+        }
+    ],
+    "+1":[
+        {
+            "name": "Idaho ",
+            "code": "83254"
+        },
+        {
+            "name": "Michigan",
+            "code": "49036"
+        },
+        {
+            "name": "New Jersey",
+            "code": "7039"
+        }
+
+    ],
+    "+82":[
+        {
+            "name": "Gyeonggi",
+            "code": "41"
+        },
+        {
+            "name": "Jeolla del Norte",
+            "code": "45"   
+        },
+        {
+            "name": "Gyeongsang del Sur",
+            "code": "48"
+        }
+    ]
+}
